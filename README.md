@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=bcea9a&height=200&section=header&text=Chaerin's%20GitHub&fontSize=70&fontColor=88b06a)
+![header](https://capsule-render.vercel.app/api?type=waving&color=bcea9a&height=160&section=header&text=Chaerin's%20GitHub&fontSize=50&fontColor=88b06a)
 
 #### Hi there! I'm Chaerin from South Korea :smiley:
 #### I majored in Computer Science at KOREATECH, and I'm preparing to become a Backend Developer.
